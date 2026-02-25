@@ -10,7 +10,7 @@ const Banner = () => {
         </div>
         <div className="w-full h-lvh flex flex-col justify-center items-center relative z-10 text-white px-4 text-center">
           <h3 className="text-2xl md:text-4xl font-500 font-poppins ">
-            Hi, I'm a Rasel...
+            Hi, I'm Rasel...
           </h3>
           <h1 className="text-4xl md:text-6xl font-bold font-poppins my-4">
             Full Stack Web Developer

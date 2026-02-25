@@ -2,6 +2,9 @@
 
 @theme {
   --font-poppins: "Poppins", sans-serif; 
-  --color-sunC: #F3D92C;
+  /* --color-sunC: #F3D92C; */
+  --color-sunC: #10b981;
+  /* --color-sunC: #059669; */
+  /* --color-sunC: #06b6d4; */
   --color-nightC: #111111;
 }

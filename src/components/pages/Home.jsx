@@ -1,6 +1,7 @@
 import About from '../layouts/About';
 import Resume from '../layouts/Resume';
 import Service from '../layouts/Service';
+import Skills from '../layouts/Skills';
 import Banner from './../layouts/Banner';
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
       <About/>
       <Service/>
       <Resume/>
+      <Skills/>
     </>
   )
 }
