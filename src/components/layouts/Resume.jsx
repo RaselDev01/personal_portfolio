@@ -4,7 +4,7 @@ import Container from "../Container";
 const Resume = () => {
   return (
     <>
-      <div className="w-full py-20 font-poppins bg-white">
+      <div id="resume" className="w-full py-20 font-poppins bg-white">
         <Container>
           <div className="text-center mb-15 flex flex-col items-center justify-center">
             <h3

@@ -5,7 +5,7 @@ import { Typewriter } from 'react-simple-typewriter';
 const Banner = () => {
   return (
     <>
-      <div className="w-full h-lvh bg-black relative">
+      <div id="home" className="w-full h-lvh bg-black relative overflow-hidden">
         <div className="w-full h-lvh bg-black opacity-30 absolute top-0 left-0 z-0">
           <Image src={bannerBG} className={"w-full h-lvh"} />
         </div>

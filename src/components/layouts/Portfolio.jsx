@@ -59,7 +59,7 @@ const Portfolio = () => {
     : allProjects.filter(project => project.category === activeCategory);
 
   return (
-    <div className="w-full py-20 font-poppins bg-gray-100">
+    <div id="portfolio" className="w-full py-20 font-poppins bg-gray-100">
       <Container>
         <div className="text-center mb-14 flex flex-col items-center justify-center">
           <div className="text-center mb-12 flex flex-col items-center justify-center">

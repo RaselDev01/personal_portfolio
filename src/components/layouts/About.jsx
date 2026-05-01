@@ -3,7 +3,7 @@ import Container from "../Container";
 const About = () => {
   return (
     <>
-      <div className="w-full py-20 font-poppins ">
+      <div id="about" className="w-full py-20 font-poppins ">
         <Container>
           <div className="text-center mb-15 flex flex-col items-center justify-center">
             <h3 className="mb-4 text-[18px] font-medium rounded-2xl bg-nightC text-white hover:bg-sunC hover:text-black duration-250 w-[120px] flex items-center justify-center">

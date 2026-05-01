@@ -39,7 +39,7 @@ const services = [
 const Service = () => {
   return (
     <>
-      <div className="w-full py-20 font-poppins bg-gray-100">
+      <div id="services" className="w-full py-20 font-poppins bg-gray-100">
         <Container>
           <div className="text-center mb-15 flex flex-col items-center justify-center">
             <h3 className="mb-4 text-[17px] font-medium rounded-2xl bg-nightC text-white hover:bg-sunC hover:text-black duration-250 

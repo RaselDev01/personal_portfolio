@@ -3,7 +3,7 @@ import Container from "../Container";
 const Contact = () => {
   return (
     <>
-      <div className="w-full py-12 md:py-20 font-poppins bg-sunC">
+      <div id="contact" className="w-full py-12 md:py-20 font-poppins bg-sunC">
         <Container>
           <div className="mb-10 md:mb-15 flex flex-col lg:flex-row gap-10">
             <div className="w-full lg:w-[50%]">
@@ -30,7 +30,7 @@ const Contact = () => {
             </div>
 
             <div className="w-full lg:w-[50%]">
-              <h3 className="text-2xl md:text-3xl font-bold text-nightC">
+              <h3 className="text-2xl md:text-3xl font-bold text-nightC mb-5">
                 Estimate your Project?
               </h3>
 
