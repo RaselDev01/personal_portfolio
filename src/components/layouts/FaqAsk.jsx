@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const FaqAsk = () => {
   const [activeIndex, setActiveIndex] = useState(null);
@@ -85,7 +85,7 @@ const FaqAsk = () => {
         <div className="flex justify-center md:justify-end">
           <div className="relative w-full max-w-md transform hover:scale-105 transition-transform duration-500">
             <img
-              src="assets/faq.png"
+              src="/assets/faq.png"
               alt="FAQ Illustration"
               className="w-full h-auto drop-shadow-2xl"
             />
