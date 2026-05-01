@@ -11,7 +11,7 @@ const MenuList = ({ closeMenu }) => {
     "Resume",
     "Portfolio",
     "FAQ",
-    "Client Speak",
+    // "Client Speak",
     "Contact Me",
   ];
 
